@@ -1,5 +1,5 @@
-# EXP No : 3                                                                              
-# Date:19/03/2024
+# EX No : 03                                                                              
+# Date : 19-03-2024
 
 # AIM:           
 To Study and Implement DML Commands.
@@ -194,6 +194,6 @@ WHERE Specialization IS NULL;
 ![image](https://github.com/Mena-Rossini/DBMS_EX_03/assets/102855266/24173d96-c238-4def-a1c5-0c0bb1d16528)
 
 # RESULT:
-Thus,we studied and implemented some DML Commands.
+Thus,To Study and Implement DML Commands was implemented successfully.
 
 
